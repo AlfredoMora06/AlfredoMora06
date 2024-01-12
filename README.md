@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="center">👋 ¡Hola, soy Alfredo!</h2>
 
 
