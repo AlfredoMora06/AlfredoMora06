@@ -6,15 +6,15 @@
 
 🛠️ Over the years, I've honed my skills in a variety of technologies, including:
 
-React
-TypeScript
-Material-UI
-Bootstrap
-Node.js
-Javascript
-HTML
-CSS
-Postgres
+React__
+TypeScript__
+Material-UI__
+Bootstrap__
+Node.js__
+Javascript__
+HTML__
+CSS__
+Postgres__
 SQL
 
 🚀 My journey began with at FDR HS, where I printed my first "Hello World" on C++.
