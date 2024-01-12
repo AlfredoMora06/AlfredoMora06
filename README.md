@@ -6,10 +6,10 @@
 
 🛠️ Over the years, I've honed my skills in a variety of technologies, including:
 
-React__
-TypeScript__
-Material-UI__
-Bootstrap__
+React  
+TypeScript  
+Material-UI  
+Bootstrap  
 Node.js__
 Javascript__
 HTML__
