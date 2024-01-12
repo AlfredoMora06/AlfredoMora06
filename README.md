@@ -10,11 +10,11 @@ React
 TypeScript  
 Material-UI  
 Bootstrap  
-Node.js__
-Javascript__
-HTML__
-CSS__
-Postgres__
+Node.js  
+Javascript  
+HTML  
+CSS  
+Postgres  
 SQL
 
 🚀 My journey began with at FDR HS, where I printed my first "Hello World" on C++.
