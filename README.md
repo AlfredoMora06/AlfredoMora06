@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-👋 ¡Hola, soy Alfredo!
+<h2 align="center">👋 ¡Hola, soy Alfredo!</h2>
+
 
 👨🏽‍💻 I'm a software developer.
 
