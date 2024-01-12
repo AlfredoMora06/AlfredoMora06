@@ -2,6 +2,7 @@
 <br/>
 👨🏽‍💻 I'm a software developer.
 <br/>
+<br/>
 <h2 align="center">🛠️ Over the years, I've honed my skills in a variety of technologies</h2> 
 
 React  
