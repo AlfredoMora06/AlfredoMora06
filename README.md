@@ -1,9 +1,8 @@
 <h2 align="center">👋 ¡Hola, soy Alfredo!</h2>
-
-
+<br/>
 👨🏽‍💻 I'm a software developer.
-
-🛠️ Over the years, I've honed my skills in a variety of technologies, including:
+<br/>
+<h2 align="center">🛠️ Over the years, I've honed my skills in a variety of technologies</h2> 
 
 React  
 TypeScript  
