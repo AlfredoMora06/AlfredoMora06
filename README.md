@@ -1,6 +1,6 @@
 <h2 align="center">👋 ¡Hola, soy Alfredo!</h2>
 <br/>
-👨🏽‍💻 I'm a software developer from Oaxaca, México.
+👨🏽‍💻 I'm a software developer from <strong>Oaxaca, México</strong>.
 <br/>
 <br/>
 🚀 My journey began with at FDR HS, where I printed my first "Hello World" on C++.
@@ -14,16 +14,31 @@
 <br/>
 <h2 align="center">🛠️ Over the years, I've honed my skills in a variety of technologies</h2> 
 
-React  
-TypeScript  
-Material-UI  
-Bootstrap  
-Node.js  
-Javascript  
-HTML  
-CSS  
-Postgres  
-SQL
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI"/>
+
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSql" />
+
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
+<br />
 
 🎯 My dream is to better my software engineering skills a bit each day and help out my community in the U.S and in Mexico, in any way I can. In my spare time, you can find me playing soccer, trying new food around Queens, or backpacking across Europe.
 
