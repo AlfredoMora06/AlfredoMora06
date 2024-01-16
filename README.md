@@ -1,17 +1,13 @@
 <h2 align="center">👋 ¡Hola, soy Alfredo!👨🏽‍💻</h2>
-<br/>
 <div align="center">
   A web and mobile developer from <strong>Oaxaca, México</strong>.
 </div>
 <br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/alfredogmorales/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
 <br/>
-🚀 My journey began with at FDR HS, where I printed my first "Hello World" on C++.
-<br/>
-<br/>
-🎓 I went to Hunter College where I learned coding fundamentals and graduated with a Bachelor's in Computer Science.
-<br/>
-<br/>
-👷🏽 I joined <a href="https://www.tracfloapp.com">TracFlo</a> (a construction fintech startup) as an intern in 2021 and proceeded to become part of their team as a fullstack engineer. 
+My journey began with at FDR HS, where I printed my first "Hello World" on C++. I went to Hunter College where I learned coding fundamentals and graduated with a Bachelor's in Computer Science. I joined <a href="https://www.tracfloapp.com">TracFlo</a> (a construction fintech startup) as an intern in 2021 and proceeded to become part of their team as a fullstack engineer.
 <br/>
 <br/>
 <h2 align="center">🛠️ Over the years, I've honed my skills in a variety of technologies</h2> 
