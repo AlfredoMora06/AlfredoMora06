@@ -1,6 +1,8 @@
-<h2 align="center">👋 ¡Hola, soy Alfredo!</h2>
+<h2 align="center">👋 ¡Hola, soy Alfredo!👨🏽‍💻</h2>
 <br/>
-👨🏽‍💻 I'm a software developer from <strong>Oaxaca, México</strong>.
+<div align="center">
+  A web and mobile developer from <strong>Oaxaca, México</strong>.
+</div>
 <br/>
 <br/>
 🚀 My journey began with at FDR HS, where I printed my first "Hello World" on C++.
