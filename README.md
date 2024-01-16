@@ -10,13 +10,9 @@
 
 <div style="display: flex; flex-direction: row;" align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=AlfredoMora06&hide=stars&theme=transparent" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMora06&theme=transparent&layout=compact" />
 </div>
 <br/>
-<div style="display: flex; flex-direction: row;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMora06&theme=transparent&layout=compact" />
-</div>
-<br/>
-
 
 My journey began with at FDR HS, where I printed my first "Hello World" on C++. I went to Hunter College where I learned coding fundamentals and graduated with a Bachelor's in Computer Science. I joined <a href="https://www.tracfloapp.com">TracFlo</a> (a construction fintech startup) as an intern in 2021 and proceeded to become part of their team as a fullstack engineer.
 <br/>
