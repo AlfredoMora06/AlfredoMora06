@@ -9,8 +9,8 @@
 <br/>
 
 <div style="display: flex; flex-direction: row;" align="center">
- <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlfredoMora06&show_icons=true&hide=stars&theme=transparent" />
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMora06&theme=transparent&layout=donut" />
+ <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlfredoMora06&show_icons=true&hide=stars&theme=transparent" />
+ <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMora06&theme=transparent&layout=donut" />
 </div>
 <br/>
 <h2 align="center">🛠️ Over the years, I've honed my skills in a variety of technologies</h2> 
