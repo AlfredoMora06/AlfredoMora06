@@ -13,9 +13,6 @@
  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMora06&theme=transparent&layout=donut" />
 </div>
 <br/>
-
-My journey began with at FDR HS, where I printed my first "Hello World" on C++. I went to Hunter College where I learned coding fundamentals and graduated with a Bachelor's in Computer Science. I joined <a href="https://www.tracfloapp.com">TracFlo</a> (a construction fintech startup) as an intern in 2021 and proceeded to become part of their team as a fullstack engineer.
-<br/>
 <br/>
 <h2 align="center">🛠️ Over the years, I've honed my skills in a variety of technologies</h2> 
 
@@ -45,11 +42,11 @@ My journey began with at FDR HS, where I printed my first "Hello World" on C++. 
 
 <br />
 
-🎯 My dream is to better my software engineering skills a bit each day and help out my community in the U.S and in Mexico, in any way I can. In my spare time, you can find me playing soccer, trying new food around Queens, or backpacking across Europe.
+My journey began with at FDR HS, where I printed my first "Hello World" on C++. I went to Hunter College where I learned coding fundamentals and graduated with a Bachelor's in Computer Science. I joined <a href="https://www.tracfloapp.com">TracFlo</a> (a construction fintech startup) as an intern in 2021 and proceeded to become part of their team as a fullstack engineer.
 
-🌟 Let's connect! I'm open to networking, discussing exciting job opportunities, or just chatting about developments in the tech world
+My dream is to better my software engineering skills a bit each day and help out my community in the U.S and in Mexico, in any way I can. In my spare time, you can find me playing soccer, trying new food around Queens, or backpacking across Europe.
 
-📫 Feel free to reach out at: agmmendez123@gmail.com
+Let's connect! I'm open to networking, discussing exciting job opportunities, or just chatting about developments in the tech world Feel free to reach out at: agmmendez123@gmail.com
 
 <!--
 Here are some ideas to get you started:
