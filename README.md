@@ -1,4 +1,4 @@
-<h2 align="center">👋 ¡Hola, soy Alfredo!👨🏽‍💻</h2>
+<h1 align="center">👋 ¡Hola, soy Alfredo!👨🏽‍💻</h1>
 <div align="center">
   A web and mobile developer from <strong>Oaxaca, México</strong>.
 </div>
