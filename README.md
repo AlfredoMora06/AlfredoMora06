@@ -78,9 +78,8 @@
   My dream is to better my software engineering skills a bit each day and help out my community in the U.S and in Mexico, in any way I can. In my spare time, you can find me playing soccer, trying new food around Queens, or backpacking across Europe.
 </p>
 
-<p align="justify">
-  Let's connect! I'm open to networking, discussing exciting job opportunities, or just chatting about developments in the tech world Feel free to reach out!
-</p>
+
+📫 How to reach me: agmmendez123@gmail.com
 <!--
 Here are some ideas to get you started:
 
