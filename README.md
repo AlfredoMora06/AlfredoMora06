@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola, soy Alfredo!👨🏽‍💻</h1>
 <div align="center">
-  A web and mobile developer from <strong>Oaxaca, México</strong> residing in <strong>New York City</strong>.
+  A web and mobile developer from <strong>Oaxaca, México</strong> currently residing in <strong>New York City</strong>.
 </div>
 <br/>
 <div align="center">
