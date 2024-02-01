@@ -73,8 +73,6 @@
   </div>
 </details>
 
-<br />
-
 <h2 align="center">My Story</h2> 
 
 <p align="justify">
