@@ -68,7 +68,7 @@
 <h2 align="center">My Story</h2> 
 
 <p align="justify">
-  My journey began with at FDR HS, where I printed my first "Hello World" on C++. I went to Hunter College where I learned coding fundamentals and graduated with a Bachelor's in Computer Science. I joined <a href="https://www.tracfloapp.com">TracFlo</a> (a construction fintech startup) as an intern in 2021 and proceeded to become part of their team as a fullstack engineer.
+  My journey began with at FDR HS, where I printed my first "Hello World" on C++. I went to Hunter College where I learned coding fundamentals and graduated with a Bachelor's in Computer Science. I joined <a href="https://www.tracfloapp.com">TracFlo</a> (a construction fintech startup) as an intern in 2021 and proceeded to become part of their team as a fullstack engineer. I'm currently working at Wildfire Systems as a software engineer creating browser extensions for different companies' cashback and loyalty rewards programs.
 </p>
 
 <p align="justify">
